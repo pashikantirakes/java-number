@@ -2,6 +2,7 @@ package in.number.com;
 
 
 public class Fibonacci {
+	// fibonacci series
 	public static void main(String[] args) {
 		int n1=0;
 		int n2=1;
