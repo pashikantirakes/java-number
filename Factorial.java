@@ -1,7 +1,7 @@
 package in.number.com;
 
 public class Factorial {
-
+//it is factorial program
 	public static void main(String[] args) {
 int num=5;
  long fact=1;
